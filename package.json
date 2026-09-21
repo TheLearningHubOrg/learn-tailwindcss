@@ -1,0 +1,20 @@
+{
+  "name": "learn-tailwindcss",
+  "version": "1.0.0",
+  "description": "An exhaustive, production-grade Tailwind CSS v4 & modern utility design system masterclass.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/tailwind.test.mjs"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "design-system",
+    "cva",
+    "tailwind-merge",
+    "frontend"
+  ],
+  "author": "Manthan Ank",
+  "license": "MIT"
+}
