@@ -2,9 +2,10 @@
   "name": "learn-tailwindcss",
   "version": "1.0.0",
   "description": "An exhaustive, production-grade Tailwind CSS v4 & modern utility design system masterclass.",
-  "main": "index.js",
+  "main": "src/index.mjs",
   "type": "module",
   "scripts": {
+    "start": "node src/index.mjs",
     "test": "node --test tests/tailwind.test.mjs"
   },
   "keywords": [
